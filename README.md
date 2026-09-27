@@ -1,212 +1,209 @@
 <div align="center">
 
-# ⚡ Jason — Avhelion
+# ⚡ Avhelion
 
-### Game Systems • Plugins • Mods • UI & Tools
+### Game Development • Plugins • Mods • UI
 
-I build custom gameplay systems and development tools for  
-**Minecraft, GTA V / LSPDFR and Roblox.**
-
-`Java` • `C#` • `Lua` • `Paper` • `Forge` • `Gradle`
+I build projects for **Minecraft, GTA V / LSPDFR and Roblox**.
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 About me
 
-Hey! I'm **Jason**, also known as **Avhelion**.
+Hey, I'm **Jason**, online known as **Avhelion**.
 
-I'm a developer from the Netherlands with a focus on game-related
-development. I enjoy taking ideas and turning them into working
-gameplay systems, plugins, mods, interfaces and tools.
+I mainly work on projects for games I enjoy playing myself. Most of my work
+is focused on plugins, gameplay systems, tools and UI.
 
-My work currently spans three main areas:
+I've worked on projects for **Minecraft**, **GTA V / LSPDFR** and **Roblox**,
+and I'm currently spending more time learning Java and improving the way I
+structure larger projects.
 
-- ⛏️ **Minecraft** plugins, mods and custom gameplay systems
-- 🚓 **GTA V / LSPDFR** plugins and Dutch police systems
-- 🎮 **Roblox** UI and MPS league tools
-
-I'm continuously improving my knowledge of Java, C#, Lua,
-databases, plugin architecture and game development.
+I like experimenting with new ideas, getting them working in-game and then
+improving them step by step.
 
 ---
 
-# 🔨 Current & Featured Projects
+## 🔨 What I'm working on
 
-## 🪄 Avhelion Wands
+### 🪄 Avhelion Wands
 
-A custom Minecraft magic system built around unique wands,
-spells and abilities.
+A custom magic project for Minecraft built around different wands, each with
+their own spells and abilities.
 
-The goal is to create a complete Kingdom-style magic system
-where every wand can have its own identity and collection of spells.
+I'm currently working on things such as:
 
-### Current work
-
-- Custom wand system
-- Command-based wand management
-- Multiple wand architecture
-- Spell casting system
+- Multiple wand support
+- Custom spell casting
 - Area-based abilities
-- Client/server spell handling
-- Custom visual effects
-- Dark Realm spell
+- Client/server handling
+- Visual spell effects
+- Wand commands
+- Dark Realm and other custom spells
 
-**Tech:** `Java` `Forge` `Gradle`
+**Java • Forge • Gradle**
 
 ---
 
-## 🏰 Minecraft Kingdom Systems
+### 🏰 Minecraft Kingdom Projects
 
-Development and experimentation with custom systems for
-Minecraft Kingdom-style gameplay.
+I also work on systems designed around Minecraft Kingdom-style servers and
+gameplay.
 
-Areas include:
+This includes experimenting with:
 
 - Kingdom mechanics
 - Custom abilities
 - Magic systems
+- Commands
+- GUIs
 - Player progression
-- Server gameplay tools
-- Custom commands and interfaces
+- Server-side gameplay systems
 
-**Tech:** `Java` `Paper` `Forge` `Gradle`
+**Java • Paper • Forge • Gradle**
 
 ---
 
-# 🚓 GTA V / LSPDFR Development
+## 🚓 GTA V / LSPDFR
 
-## 📱 Dutch MEOS
+A big part of my development work is focused on creating Dutch content for
+**GTA V / LSPDFR**.
 
-A custom Dutch police information system for **GTA V / LSPDFR**.
+### 📱 Dutch MEOS
 
-The project recreates a Dutch-style mobile police workflow inside
-GTA V, with its own interface and interconnected police systems.
+A custom Dutch-style mobile police information system for LSPDFR.
 
-### Systems include
+The project includes systems for:
 
 - Person records
 - ID card scanning
-- Driving licence checks
+- Driving licence information
 - Police history
 - Vehicle information
 - Status indicators
-- Mobile phone interface
-- Incident workflows
+- Mobile UI
+- Incident handling
 
-**Tech:** `C#` `LSPDFR` `RAGE Plugin Hook`
+**C# • LSPDFR • RAGE Plugin Hook**
 
 ---
 
-## 🚨 Nederlandse Meldingen
+### 🚨 Nederlandse Meldingen
 
-A custom Dutch callout project for LSPDFR focused on more
-recognisable Dutch police incidents and dispatch workflows.
+A Dutch callout project for LSPDFR with incidents based around Dutch police
+gameplay.
 
-### Examples
+Some of the callouts and systems I've worked on include:
 
 - Armed person reports
 - Person with a knife
 - Public intoxication
 - Medical emergencies
-- Public disturbances
-- Search-area incidents
+- Disturbances
+- Search areas
 - DSI operations
 - Priority 1 / 2 / 3 dispatches
 
-**Tech:** `C#` `LSPDFR` `RAGE Plugin Hook`
+**C# • LSPDFR • RAGE Plugin Hook**
 
 ---
 
-# 🎮 Roblox Development
+## 🇳🇱 Nederlandse Plugins
 
-## ⚽ MPS League Tools & UI
+I run **Nederlandse Plugins**, a community focused on Dutch plugins and
+content for GTA V / LSPDFR.
 
-I've worked as a **UI / MPS Tools Developer** for multiple
-Roblox football communities and leagues.
+It's where I share projects, development updates and provide support for
+players using our plugins.
 
-My work focuses on interfaces and tools used around
-MPS-style football gameplay.
-
-### Development work
-
-- Match interfaces
-- League UI
-- MPS tools
-- Gameplay interfaces
-- Football systems
-- League-specific tooling
-
-### Communities / Leagues
-
-| Community |
-| --- |
-| ⚽ NPS |
-| ⚽ SCLR |
-| ⚽ IFORS |
-| ⚽ ESA |
-| ⚽ SRS |
-| ⚽ FUSA |
-
-**Tech:** `Roblox Studio` `Lua` `UI Development`
+<a href="https://discord.gg/fnzEWxCbm8">
+  <img src="https://img.shields.io/badge/Join_Nederlandse_Plugins-Discord-5865F2?logo=discord&logoColor=white" alt="Nederlandse Plugins Discord">
+</a>
 
 ---
 
-# 🧰 Development Stack
+## ⚽ Roblox Development
+
+Before focusing more on Minecraft and GTA V development, I've also worked
+on **Roblox football / MPS projects**, mainly around UI and league tools.
+
+I've done UI / MPS tools development for:
+
+- **NPS**
+- **SCLR**
+- **IFORS**
+- **ESA**
+- **SRS**
+- **FUSA**
+
+My work has included things such as league interfaces, match-related UI and
+tools used around MPS football communities.
+
+**Roblox Studio • UI • MPS Tools**
+
+---
+
+## 🧰 What I use
 
 ### Languages
 
-`Java` • `C#` • `Lua`
+![Java](https://img.shields.io/badge/Java-Development-orange?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Development-512BD4?logo=dotnet&logoColor=white)
 
 ### Minecraft
 
-`Paper` • `Bukkit` • `Forge` • `Gradle`
+![Paper](https://img.shields.io/badge/Paper-Plugins-white)
+![Forge](https://img.shields.io/badge/Forge-Modding-orange)
+![Gradle](https://img.shields.io/badge/Gradle-Builds-02303A?logo=gradle&logoColor=white)
 
-### GTA V
+### Other
 
-`LSPDFR` • `RAGE Plugin Hook`
-
-### Roblox
-
-`Roblox Studio` • `Lua` • `UI`
-
-### Data & Tools
-
-`Git` • `GitHub` • `Gradle` • `MySQL` • `SQLite`
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
 
 ---
 
-# 🧪 Currently Learning
+## 📚 Currently learning
 
-I'm actively improving my knowledge of:
+I'm still improving my development skills and currently spend a lot of time
+learning more about:
 
-- Java & object-oriented programming
+- Java
 - Paper plugin development
 - Plugin architecture
-- Asynchronous programming
-- SQL & database design
+- Async programming
+- MySQL & SQLite
 - Caching
 - APIs
-- Git workflows
-- Performance optimisation
-- Multiplayer game systems
+- Git & GitHub workflows
+- Performance
+- Multiplayer systems
+
+I don't mind starting with something small and rebuilding it a few times if
+it means I understand it better afterwards.
 
 ---
 
-# 🚀 What I'm Working Towards
+## 🎮 Projects
 
-I want to keep developing larger and more polished game systems,
-while improving both the technical side and player experience
-of the projects I work on.
+Most of my repositories are currently private or still in development.
 
-I especially enjoy projects where **gameplay, UI and technical
-systems come together**.
+As projects become ready to show publicly, I'll add them here.
 
 ---
 
 <div align="center">
 
-## ⚡ AVHELION
+### ⚡ Avhelion
+
+**Minecraft • GTA V / LSPDFR • Roblox**
+
+<a href="https://discord.gg/fnzEWxCbm8">
+  <img src="https://img.shields.io/badge/Nederlandse_Plugins-Join_Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
+</a>
 
 </div>
