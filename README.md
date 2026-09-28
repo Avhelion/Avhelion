@@ -67,93 +67,79 @@ spells and abilities.
 
 ---
 
-## 👑 Minecraft Kingdom Development
+## 👑 Kingdom Mod
 
-Kingdom-style Minecraft gameplay is one of the areas I enjoy experimenting
-with the most.
+> **Turning Minecraft into a living Kingdom sandbox.**
 
-Things I've worked on or experimented with include:
+Kingdom Mod is one of my larger Minecraft projects and focuses on building
+and managing your own kingdom from the ground up.
 
-- 👑 Kingdom mechanics
-- ⚔️ Custom abilities
-- 🔮 Magic systems
-- 📈 Player progression
-- 🖥️ Commands & GUIs
-- 🧩 Custom gameplay systems
-- 🛠️ Server tools
+The goal is to make the kingdom feel alive instead of being just a collection
+of buildings. NPCs have their own jobs, resources move through the settlement
+and buildings are constructed as part of an actual economy.
 
-![Paper](https://img.shields.io/badge/Paper-7C3AED?style=flat-square)
-![Forge](https://img.shields.io/badge/Forge-A855F7?style=flat-square)
-![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white)
+### 🏰 Current systems
+
+- 👑 Kingdom founding & management
+- 👥 Persistent kingdom NPCs
+- 🪓 Lumberjack jobs
+- 🔨 Builder jobs
+- 📦 Storage & logistics
+- 🏠 Constructible buildings
+- 🛠️ Material gathering & crafting
+- 💤 NPC schedules & sleeping
+- 📋 Kingdom management interface
+- 💾 Persistent kingdom data
+
+### 🌠 Planned expansion
+
+- ⚔️ Soldiers & kingdom armies
+- 🤝 Alliances
+- 🏴 Wars between kingdoms
+- 🏘️ Villages & capitals
+- 👑 Kingdom hierarchy
+- 🛡️ Raids & surprise attacks
+- ✨ Magic & special abilities
+
+**Built with:**
+
+![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-C026D3?style=flat-square)
+![Gradle](https://img.shields.io/badge/Gradle-0891B2?style=flat-square&logo=gradle&logoColor=white)
 
 ---
 
-# 🚓 GTA V / LSPDFR Development
+## 💻 Los Santos Alive MDT
 
-A big part of my development work revolves around bringing more
-**Dutch police gameplay** to GTA V / LSPDFR.
+> **A fullscreen MDT built for the Los Santos Alive ecosystem.**
 
-## 📱 Dutch MEOS
+Los Santos Alive MDT is a new police computer system designed specifically
+for **GTA V / LSPDFR** and the Los Santos Alive ecosystem.
 
-A custom Dutch-style police information system for LSPDFR.
+The project is being built from the ground up with a focus on a clean,
+modern interface that feels like an actual in-vehicle police computer rather
+than a standard game menu.
 
-The project is designed around recreating a more complete police workflow
-inside GTA V instead of only showing basic information.
+### 🚔 Current direction
 
-### 🔹 Systems
+- 🖥️ Fullscreen MDT interface
+- 👤 Person lookup & records
+- 🚘 Vehicle information
+- 📂 Police records
+- 🔎 Search systems
+- 🚨 Incident information
+- 🧭 Clear screen-by-screen navigation
+- 🎨 Modern LSA-focused UI
+- 💬 Rotating police facts, moments & quotes on the home screen
 
-- 🪪 ID card scanning
-- 🚘 Driving licence information
-- 👤 Person records
-- 📂 Police history
-- 🚔 Vehicle information
-- 🟢 Status indicators
-- 📱 Mobile MEOS interface
-- 📝 Incident handling workflows
+The MDT is being developed screen by screen, with each part designed around
+clarity and usability during LSPDFR gameplay.
+
+**Built with:**
 
 ![C#](https://img.shields.io/badge/C%23-C026D3?style=flat-square&logo=dotnet&logoColor=white)
 ![LSPDFR](https://img.shields.io/badge/LSPDFR-8B5CF6?style=flat-square)
 ![RPH](https://img.shields.io/badge/RAGE_Plugin_Hook-2563EB?style=flat-square)
-
----
-
-## 🚨 Nederlandse Meldingen
-
-A custom Dutch callout project for LSPDFR.
-
-The goal is to create incidents and dispatch workflows that feel more at
-home in Dutch police gameplay.
-
-### 🚔 Examples
-
-🔴 Priority 1 incidents  
-🟡 Priority 2 incidents  
-🟢 Priority 3 incidents  
-
-🔫 Armed person reports  
-🔪 Knife incidents  
-🚑 Medical emergencies  
-🍺 Public intoxication  
-🔎 Search-area incidents  
-🛡️ DSI operations  
-👥 Public disturbances  
-
----
-
-# 🇳🇱 Nederlandse Plugins
-
-I run **Nederlandse Plugins**, a community focused on Dutch content,
-plugins and projects for **GTA V / LSPDFR**.
-
-It's where I share development updates, projects and support.
-
-<div align="center">
-
-<a href="https://discord.gg/fnzEWxCbm8">
-  <img src="https://img.shields.io/badge/JOIN_NEDERLANDSE_PLUGINS-Discord-C026D3?style=for-the-badge&logo=discord&logoColor=white" alt="Nederlandse Plugins Discord">
-</a>
-
-</div>
 
 ---
 
